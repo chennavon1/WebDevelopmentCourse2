@@ -1,0 +1,87 @@
+body 
+{
+    direction:rtl;
+    background-image:url("../images/palm-trees-3058728_960_720.jpg");
+    
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+    background-color:darkcyan;
+}
+#sec1 {
+   
+    background-image: url("../images/img1.jpg");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-size: 40pt;
+    margin-right: 20px;
+    
+}
+#hit {
+    font-size: 20pt;
+    margin-right: 20px;
+}
+#txt {
+    background: rgba(76, 175, 80, 0.3);
+    
+}
+#for {
+    margin-right: 600px;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 14pt;
+    background-color: white;
+    opacity: 0.9;
+    padding:10px 10px 0px 10px;
+}
+form {
+    margin-right: 600px;
+    margin-left: 80px;
+    background-color: white;
+    padding: 15px 20px;
+    
+    opacity: 0.9;
+    
+
+}
+label{
+    display:block;
+    margin-top:10px;
+    padding:5px;
+    
+}
+input[type=text]{
+    display:block;
+    margin-bottom:15px;
+}
+ .box{
+    background-color:mediumturquoise;
+    border:solid 2px white;
+    font-size:24pt;
+    display:inline-block;
+    float:right;
+    width:196px;
+    height:50px;
+    padding:80px 20px;
+    text-align:center;
+    margin-bottom:15px;
+  
+    }
+ #one{
+     font-size:20pt;
+     padding:20px;
+     color:white;
+    
+    }
+#two {
+    font-size: 20pt;
+    padding: 20px 500px 20px 0px;
+    color: white;
+}
+
+
